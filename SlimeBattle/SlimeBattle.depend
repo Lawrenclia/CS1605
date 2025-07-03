@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1751099765 source:d:\cpp\cs1605\p1\slimebattle\main.cpp
+	<iostream>
+	<sstream>
+	"battle.h"
+
+1751191206 d:\cpp\cs1605\p1\slimebattle\battle.h
+	<vector>
+	"slime.h"
+
+1751191205 d:\cpp\cs1605\p1\slimebattle\slime.h
+	<string>
+	<vector>
+
+1751101106 source:d:\cpp\cs1605\p1\slimebattle\battle.cpp
+	<sstream>
+	<vector>
+	<algorithm>
+	"slime.h"
+	"battle.h"
+
+1751100564 source:d:\cpp\cs1605\p1\slimebattle\slime.cpp
+	<string>
+	<vector>
+	"slime.h"
+
